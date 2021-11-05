@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Lakki+Reddy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sunshiney&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@1,700&display=swap');
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap" rel="stylesheet">
+* {
+    margin: 0;
+    padding: 0;
+   }
+
+   body {
+     overflow-x: hidden;
+     background-color: #F5DEB3;
+
+   }
+
+
+   .menu {
+     margin-top: 4vh;
+     margin-left: 8vh;
+
+   }
+
+
+
+   .menu li{
+     float: right;
+     padding-right: 30px;
+     font-size: 1.5em;
+     color: #037bfc;
+     list-style-type: none;
+     font-family: 'Yeon Sung', cursive;
+
+   }
+
+
+   .menu li a {
+     color: #037bfc;
+     text-decoration: none;
+   }
+
+
+    #title {
+      margin-top: 10vh;
+      margin-bottom: 2vh;
+      color: #037bfc;
+      font-family: 'Lakki Reddy', cursive;
+
+    }
+
+   h1 {
+     text-align: center;
+     font-size: 2.5em;
+     font-family: 'Courier New', Courier, monospace;
+   }
+
+   p {
+    margin-top: 5vh;
+    font-size: 2em;
+    color: rgb(188,143,143);
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+  }
+  a h2 {
+   margin-left: 10vh;
+    font-size: 1.7em;
+    color: rgb(100,149,237);
+    font-family: 'Sunshiney', cursive;
+
+  }
+
+
+image {
+  margin-right: 5ch;
+}
+h3 {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'EB Garamond', serif;
+}
+h2 {
+  color: rgb(218,165,32);
+  margin-top: auto;
+  font-size: 2em;
+  font-family: 'Philosopher', sans-serif;
+}
+
+h4 {
+  margin-left: 10vh;
+  font-size: 1.7em;
+  color: rgb(100,149,237) ;
+  font-family: 'Courgette', cursive;
+
+}
+
+.box{
+  width: 400px;
+  height: 10px;
+  padding-top: 0px;
+
+}
+
+.title{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.description{
+  color: rgb(0,0,0);
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+
+}
